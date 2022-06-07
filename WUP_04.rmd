@@ -79,3 +79,5 @@ According to these confidence intervals, the data of the High School and Graduat
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Based on the boxplots, the numerical data including the mean, as well as the inferential results, we can say that by the time a person receives a Graduate Degree, their Wordsum test will be greater than when they were in LT and regular High School. 
