@@ -51,6 +51,11 @@ It appears that the Graduate level degree has a higher score than other degrees 
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+favstats(WORDSUM~DEGREE,data=mydata)
+```
+
+The order of the mean is from Graduate, then Junior College, than Bachelor's, then High School, then LT High School. Notice that the Junior College has a population of only 12 while the Bachelor's has 44. High School has the largest population of 85. 
 
 ## Inferential Results
 
